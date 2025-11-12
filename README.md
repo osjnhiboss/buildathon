@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Web Copy for Prediction Platform
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# buildathon
+>>>>>>> 0b020ee419ac7f34b9ef7d63ff7b014d4fa7c3e4
